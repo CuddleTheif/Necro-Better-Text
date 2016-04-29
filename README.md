@@ -8,4 +8,4 @@ Just download the zip of the repo, unzip it to a folder for the project, and ope
 Download the plugin js (js/plugins/NecroBetterText.js) and include in your project! You can download it by downloading the repo's zip and unzipping it or by going to the file, clicking raw, and the right-click and then save as...
 
 # How To Use The Plugin
-Check out my fourm post [here]()
+Check out my fourm post [here](http://forums.rpgmakerweb.com/index.php?/topic/61136-necro-better-text-add-images-to-text-align-text-and-more/)
